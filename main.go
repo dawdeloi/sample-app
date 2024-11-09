@@ -35,3 +35,4 @@
 		 w.Header().Set("Content-Type", "image/png")
 		 png.Encode(w, img)
  }
+ 
